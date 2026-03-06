@@ -1,1 +1,7 @@
-# Placement_System
+## Why is a Placement Management System required?
+
+Campus placements are one of the most critical milestones in a student's academic journey. For colleges and universities, managing the entire placement process from company registrations and job postings to student applications, interview scheduling, and offer letter distribution is an enormously complex and time-sensitive operation.
+
+Currently, most placement cells rely on spreadsheets, emails, and manual coordination to manage hundreds of students and dozens of companies simultaneously. This leads to miscommunication, missed deadlines, data inconsistencies, and a lack of transparency for students who are anxious about their placement status. Placement officers are overburdened with repetitive administrative tasks, and companies often face delays in receiving shortlisted candidate information.
+
+A dedicated Placement Management System like CampusHire addresses these challenges by providing a centralized, structured platform to manage the entire recruitment lifecycle. It enables students to view openings and track their applications in real time, allows placement officers to coordinate companies and interview rounds efficiently, and gives administrators full visibility and control over the process. By automating routine tasks and organizing data systematically, CampusHire saves time, reduces errors, and significantly improves the placement experience for all stakeholders.
